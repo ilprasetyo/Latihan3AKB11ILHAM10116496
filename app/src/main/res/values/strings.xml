@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="quoted">MyApplication adalah sebuah aplikasi informasi seputar kegiatan sang developer</string>
+    <string name="deskripsi_diri">Ilham Prasetyo merupakan seseorang kakak dari ketiga adiknya, dan memiliki satu kakak perempuan. Menjadi seorang kakak dan adk dalam waktu yang sama merupkan hal yang cukup sulit dalam membagi waktu</string>
+
+</resources>

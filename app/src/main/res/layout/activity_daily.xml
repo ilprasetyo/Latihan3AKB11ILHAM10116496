@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:fontFamily="@font/arialn"
+            android:text="Daily activity"
+            android:layout_marginBottom="15dp"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:background="@drawable/element_outline"
+            android:id="@+id/btn_friend"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Daily Activity"
+            android:textAllCaps="false" />
+
+        <Button
+            android:background="@drawable/element_outline"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:id="@+id/btn_daily"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Friend List"
+            android:textAllCaps="false" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

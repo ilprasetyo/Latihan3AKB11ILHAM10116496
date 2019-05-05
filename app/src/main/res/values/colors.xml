@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66DDA9</color>
+    <color name="colorPrimaryDark">#388767</color>
+    <color name="colorAccent">#F3F0E3</color>
+
+    <color name="lightBlue">#43b3e6</color>
+    <color name="shadowHeader">#d1d2d4</color>
+    <color name="separator">#939597</color>
+    <color name="fontTitle">#404041</color>
+    <color name="fontDesc">#808284</color>
+    <color name="backg">#4ba6eb</color>
+    <color name="black">#000</color>
+    <color name="background">#ffffff</color>
+    <color name="back_theme">#FAFAFA</color>
+    <color name="white">#ffffff</color>
+    <color name="backgroundInviteFriend">#D81B60</color>
+    <color name="abuLine">#262626</color>
+    <color name="transparan">#00000000</color>
+</resources>
